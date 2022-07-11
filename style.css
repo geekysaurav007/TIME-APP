@@ -1,0 +1,28 @@
+#jumbo{
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 50px;
+    height: 400px;
+    width: fit-content;
+    background-image: url("clock1.jpg");
+    background-position:center;
+    background-size: cover;
+    
+}
+#butt{
+    margin-left: 650px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    
+}
+#time{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color:midnightblue
+}
+#label{
+    margin-left: 550px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
